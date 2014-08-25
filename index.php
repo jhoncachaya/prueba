@@ -12,6 +12,7 @@ require_once APP_PATH . 'View.php';
 require_once APP_PATH . 'Registro.php';
 
 
+//se utiliza el Bootstrap
 
 
 try{
